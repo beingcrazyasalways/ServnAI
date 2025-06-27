@@ -129,3 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies
 - Inspired by the need for streamlined business solutions
 - Special thanks to all contributors
+- [![Vercel](https://vercel.com/button)](https://vercel.com/your-vercel-project-url)
