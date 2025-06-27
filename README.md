@@ -1,5 +1,10 @@
 # ServnAi - AI-Powered Business Solutions
 
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://servn-ai.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beingcrazyasalways/ServnAi)
+
+> **Live Demo:** [https://servn-ai.vercel.app/](https://servn-ai.vercel.app/)
+
 A comprehensive business management platform that leverages AI to automate and streamline your business operations.
 
 ## 🌟 Key Features
@@ -99,6 +104,13 @@ servnai/
 
 ## 🌐 Deployment
 
+This project is deployed on Vercel and is live at [https://servn-ai.vercel.app/](https://servn-ai.vercel.app/)
+
+### Automatic Deployments
+- Every push to the `main` branch triggers an automatic deployment
+- Preview deployments are created for pull requests
+- Vercel's Edge Network ensures global CDN distribution
+
 ### Frontend Deployment
 1. Build the production version:
    ```bash
@@ -129,4 +141,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies
 - Inspired by the need for streamlined business solutions
 - Special thanks to all contributors
-- [![Vercel](https://vercel.com/button)](https://vercel.com/your-vercel-project-url)
